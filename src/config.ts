@@ -34,7 +34,7 @@ export const ME = {
     contactInfo: {
         email: "kevin.le.2200@gmail.com",
         linkedin: "https://www.linkedin.com/in/kevinle22",
-        resumeDoc: "Resume_KevinLe.pdf",
+        resumeDoc: "AboutMe/Resume_KevinLe.pdf",
     },
     aboutMe: "My name is Kevin Le, and I have worked as a QA Analyst Contractor at RBC Wealth Management. During my time there, I designed and implemented over 500 automated functional and integration test scripts, using modeling-based tools like ConformIQ and Hexawise. I also worked with RBC’s keyword-driven automation framework to automate these test scripts, managing the test cases and results through Tricentis qTest. Recently, I achieved the Certified Tester Foundation Level from the ASTQB - ISTQB. I’m excited to continue expanding my testing knowledge and skills and am currently preparing for the Certified Tester Advanced Level Agile Technical Tester (CTAL-ATT).",
 }
