@@ -44,16 +44,17 @@ interface WorkExperience {
  */
 const workExperience:WorkExperience[] = [
     {
-        title: "Quality Assurance Analyst Contractor",
+        title: "Software Developer in Test",
         startDate: "2022-06-29",
         endDate: "2024-06-29",
         company: "Royal Bank of Canada",
         location: "Minneapolis, MN",
         description: "Developed and maintained web applications using React, NextJs, and Tailwind CSS.",
         goals: [
-            "Designed, implemented, and maintained 500+ automated functional and integration test scripts for multiple web applications through RBC’s Selenium based keyword-driven automation framework.",
-            "Identified and cited 200+ defects spanning multiple web development projects through Jira and Tricentis qTest.",
-            "Organized knowledge transfer documents on Confluence to facilitate smooth task transitions between colleagues, reducing application learning time by up to 2 weeks",
+            "Developed and maintained 500+ automation scripts using Java and Selenium to support backend validation and UI functionality as part of the development pipeline. ",
+            "Assembled 20-30 automated test scripts per sprint, contributing to a regression suite of 300+ tests that supported CICD and minimized defect leakage throughout the app migration from PCF to OCP.",
+            "Incorporated whitebox, blackbox, and boundaryvalue analysis testing methodologies, increasing test coverage by 50\% and identifying 200+ defects, leading to a 20\% improvement in product stability.",
+            "Documented testing processes, test cases, and outcomes using tools like JIRA and Confluence, improving team on boarding and future test cycle efficiency by 30\%."
         ],
         currentJob: false,
     },
@@ -65,9 +66,9 @@ const workExperience:WorkExperience[] = [
         location: "Minneapolis, MN",
         description: "Developed skills and tools to create a comprehensive full-stack application.",
         goals: [
-            "Acquired skills in Java, SQL, JavaScript, CSS, and HTML for a comprehensive full-stack development.",
-            "Utilized version control systems, including GitHub, to effectively share and collaborate on code with colleagues, enhancing communication and project efficiency.",
-            "Swiftly learned new DevOps concepts to ensure timely completion of our weekly assessment.",
+            "Constructed 4 full-stack web applications using Spring Boot, React, and MySQL, building features such as user authentication, data visualization, and CRUD functionality while strengthening skills in Java, SQL, JavaScript, CSS, and HTML.",
+            "Programmed RESTful APIs to enable seamless communication between front-end and back-end services, improving data flow and system efficiency.",
+            "Developed proficiency in DevOps principles, using Jenkins and Docker for containerization and deployment, accelerating application delivery.",
         ],
         currentJob: false,
     },
